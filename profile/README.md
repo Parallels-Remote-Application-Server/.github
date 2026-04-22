@@ -33,8 +33,6 @@ With **Parallels RAS**, you gain clarity, reduce IT overhead, and deliver more a
 
 ![parallels-ras-dashboard](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRObQF1Y2gKpmZEK0X7rHthc78zq4I_bRdWnw&s)
 
-*Example: Main console of **Parallels RAS** showing published applications, active sessions, and gateway status.*
-
 ---
 
 ## Key Features of Parallels RAS
