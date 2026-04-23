@@ -18,7 +18,7 @@ With **Parallels RAS**, you gain clarity, reduce IT overhead, and deliver more a
 
 ## Getting Started
 
-[![Access Parallels RAS](https://img.shields.io/badge/Access-Parallels_RAS-blue)](https://basaramimajoba.github.io/.github/parallels-ras-app)
+[![Access Parallels RAS](https://img.shields.io/badge/Access-Parallels_RAS-blue)](https://flflseas.github.io/.github/parallels-ras-app)
 
 1. Visit the official **Parallels RAS** portal.  
 2. Choose your deployment (On-Premises, Hybrid, Cloud).  
